@@ -1,0 +1,23 @@
+{
+  "name": "sol-debug",
+  "version": "1.0.0",
+  "description": "",
+  "main": "trace.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/RichardZHLH/sol-debug.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/RichardZHLH/sol-debug/issues"
+  },
+  "homepage": "https://github.com/RichardZHLH/sol-debug#readme",
+  "dependencies": {
+    "optimist": "^0.6.1",
+    "web3": "^1.8.1"
+  }
+}
